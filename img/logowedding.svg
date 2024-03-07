@@ -7,8 +7,8 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
-   sodipodi:docname="logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="logowedding.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,15 +23,17 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.5970436"
-     inkscape:cx="284.73633"
-     inkscape:cy="546.02378"
+     inkscape:zoom="1.205744"
+     inkscape:cx="396.43571"
+     inkscape:cy="601.70316"
      inkscape:window-width="1440"
      inkscape:window-height="900"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2" />
   <g
@@ -44,14 +46,14 @@
        x="37.007534"
        y="136.17636"
        id="text473"
-       inkscape:export-filename="/Users/u0110910/workspace/wedding-website/img/logowedding.png"
+       inkscape:export-filename="logowedding.png"
        inkscape:export-xdpi="1590.1899"
        inkscape:export-ydpi="1590.1899"><tspan
          sodipodi:role="line"
          id="tspan471"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120.713px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:4.52672"
          x="37.007534"
-         y="136.17636">A</tspan></text>
+         y="136.17636">C</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120.713px;line-height:1.25;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:4.52672"
@@ -65,12 +67,12 @@
          id="tspan471-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120.713px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:4.52672"
          x="124.69862"
-         y="200.02373">J</tspan></text>
+         y="200.02373">C</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.2685px;line-height:1.25;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.56006"
-       x="93.455688"
-       y="171.16951"
+       x="77.560181"
+       y="165.24023"
        id="text473-5"
        inkscape:export-filename="/Users/u0110910/workspace/wedding-website/img/logowedding.png"
        inkscape:export-xdpi="1590.1899"
@@ -78,7 +80,7 @@
          sodipodi:role="line"
          id="tspan471-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.2685px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.56006"
-         x="93.455688"
-         y="171.16951">&amp;</tspan></text>
+         x="77.560181"
+         y="165.24023">&amp;</tspan></text>
   </g>
 </svg>
